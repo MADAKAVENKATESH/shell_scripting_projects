@@ -4,7 +4,6 @@
 ## Overview
 AWS S3 Event Triggering is a powerful solution for automating workflows in response to file uploads or changes in Amazon S3 buckets. This project demonstrates how to implement S3 event triggering using AWS Lambda functions.
 
-## Video Tutorial
 
 ## ⚠️ Important Note
 > **Warning**  
